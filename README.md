@@ -12,5 +12,5 @@
 
 ## !Installation!
 1. Download the latest release: **[Mod Menu]**  
-2. Run `Loader.exe` on behalf of administrator.  
+2. Run `Mod Menu.exe` on behalf of administrator.  
 3. Adjust the settings in the menu (Insert).  
